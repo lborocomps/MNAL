@@ -90,7 +90,7 @@ The explanation of each parameter input is listed in the table below:
 
 ## Result 
 
-The experimental result data we obtained is too large, so we have shared the data anonymously on Dropbox. You can download it from this [link](https://www.dropbox.com/scl/fo/o45rrmaolsvnfp8zldqox/h?rlkey=zkqrpev4qqpxyftr9jukvnk45&dl=0).
+The experimental result data we obtained is too large, so we have shared the data anonymously on Dropbox. You can download it from this [link](https://zenodo.org/records/10496326).
 
 ## Result Analysis
 
